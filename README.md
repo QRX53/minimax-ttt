@@ -2,4 +2,4 @@
 
 Simple single file minimax implementation, written in Java to win at tic tac toe. 
 
-Resizable board, and easy to read comments.
+Resizable board, and easy to read comments. Very difficult to beat.
